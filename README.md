@@ -5,8 +5,6 @@
 </div>
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" />
 
  
 [![baroun's 42 stats](https://badge42.vercel.app/api/v2/cl8bj6y6r00110gkw05dp70n6/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
