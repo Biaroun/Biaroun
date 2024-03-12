@@ -1,13 +1,12 @@
 <div align='center'>
  
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Beely</h1>
-<h4 align="center">an 42 students at Nice</h4>
+<h4 align="center">an 42 students</h4>
 </div>
 
 <div align="center">
 
  
-[![baroun's 42 stats](https://badge42.vercel.app/api/v2/cl8bj6y6r00110gkw05dp70n6/stats?cursusId=21&coalitionId=116)](https://github.com/JaeSeoKim/badge42)
  
  <details>
 <summary>42 Nice</summary>
