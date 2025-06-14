@@ -1,4 +1,6 @@
-![banner](/assets/banner/banner.png)
+<p align="center">
+  <img src="https://github.com/Biaroun/Biaroun/blob/main/assets/banner/banner.png" alt="banner">
+</p>
 
 # <p align="center">Welcome to my Github Profile</p>
 
