@@ -36,7 +36,7 @@ Student at 42 School, passionate about software development and technologies, I 
 |:-----:|:----:|
 |[**So_long**](https://github.com/Biaroun/so_long)|`100/100`|
 |[**Push_swap**](https://github.com/Biaroun/push_swap_42)|`84/100`|
-|[**Minitalk**](https://github.com/Biaroun/Minitalk_42)|`115/100`⭐|
+|[**Minitalk**](https://github.com/Biaroun/Minitalk_42)|`115/100`|
 |**Exam 02**|`100/100`|
   
  </details>
