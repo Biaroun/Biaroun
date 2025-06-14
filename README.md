@@ -2,15 +2,13 @@
   <img src="https://github.com/Biaroun/Biaroun/blob/main/assets/banner/banner.png" alt="banner">
 </p>
 
+---
+
 # <p align="center">Welcome to my Github Profile</p>
 
 Student at 42 School, passionate about software development and technologies, I am seeking a computer science internship to strengthen my skills in pursuit of a master's level degree.
 
-
-
-
-
-
+<br/>
 
 # <p> </p>
 
