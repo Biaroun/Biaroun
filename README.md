@@ -1,6 +1,11 @@
-<p align="center">
+<div align="center">
+
   <img src="https://github.com/Biaroun/Biaroun/blob/main/assets/banner/banner.png" alt="banner">
-</p>
+
+
+[![LinkedIn](https://badgen.net/badge/LinkedIn/Bilal%20Aroun/0A66C2?icon=https://simpleicons.org/icons/linkedin.svg&cache=86400)](https://www.linkedin.com/in/bilal-aroun-757088257/)
+[![42 Profile](https://badgen.net/badge/42/Biaroun/black?icon=https://meta.intra.42.fr/images/42_logo.svg&cache=86400)](https://profile.intra.42.fr/users/biaroun)
+</div>
 
 ---
 
@@ -11,12 +16,15 @@ Hi, I'm Bilal Aroun, a student at 42 School, passionate about software developme
 <br/>
 
 # <p> </p>
-
-## Skills Showcase 💻:
+<p style="font-size: 1.5em; font-weight: bold;">Skills Showcase 💻:</p>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,js,react,nodejs,html,css,docker,git,github,vscode)](https://skillicons.dev)
+
+
 # <p> </p>
 
+
+<p style="font-size: 1.5em; font-weight: bold;">42 Core Projects 📚:</p>
 <div align="center">
 <details>
 <summary>PROJETS 42 🎓</summary>
