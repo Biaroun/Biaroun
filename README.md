@@ -15,16 +15,15 @@ Hi, I'm Bilal Aroun, a student at 42 School, passionate about software developme
 
 <br/>
 
----
 
 ## Skills Showcase 💻:
 
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,django,js,react,nodejs,html,css,docker,git,github,vscode)](https://skillicons.dev)
 
----
+<br/>
 
-## 42 Core Projects 📚::
+## 42 Core Projects 📚:
 
 <div align="center">
 <details>
@@ -125,6 +124,8 @@ Hi, I'm Bilal Aroun, a student at 42 School, passionate about software developme
 </details>
 
 </div>
+
+<br/>
 
 # <p> </p>
 
