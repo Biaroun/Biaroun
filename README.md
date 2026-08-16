@@ -50,20 +50,6 @@ I'm currently seeking a <b>computer science internship</b> to grow my skills whi
 
 <br/>
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Biaroun/Biaroun@output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Biaroun/Biaroun@output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/Biaroun/Biaroun@output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
-<br/>
-
 ## 📌 Featured Projects
 
 |Project|Description|
@@ -179,3 +165,13 @@ I'm currently seeking a <b>computer science internship</b> to grow my skills whi
 <br/>
 
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Biaroun/Biaroun@output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Biaroun/Biaroun@output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/Biaroun/Biaroun@output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
