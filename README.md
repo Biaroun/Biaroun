@@ -2,6 +2,7 @@
 
   <img src="https://github.com/Biaroun/Biaroun/blob/main/assets/banner/banner.png" alt="banner">
 
+[![Portfolio](https://badgen.net/badge/Portfolio/biaroun.github.io/0A66C2?icon=https://simpleicons.org/icons/googlechrome.svg&cache=86400)](https://biaroun.github.io/)
 [![LinkedIn](https://badgen.net/badge/LinkedIn/Bilal%20Aroun/0A66C2?icon=https://simpleicons.org/icons/linkedin.svg&cache=86400)](https://www.linkedin.com/in/bilal-aroun-757088257/)
 [![42 Profile](https://badgen.net/badge/42/Biaroun/black?icon=https://meta.intra.42.fr/images/42_logo.svg&cache=86400)](https://profile.intra.42.fr/users/biaroun)
 
@@ -22,7 +23,9 @@ I'm currently seeking a <b>computer science internship</b> to grow my skills whi
 
 - 🎓 Student at **42 School** (Circle 6 / core curriculum completed)
 - 🌱 Currently exploring backend development, systems programming and DevOps
+- 📖 Next up: learning **AI / Data Science**
 - 💼 Looking for an internship opportunity in software engineering
+- 🌐 Check out my [Portfolio](https://biaroun.github.io/)
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/bilal-aroun-757088257/)
 
 <br/>
@@ -37,8 +40,7 @@ I'm currently seeking a <b>computer science internship</b> to grow my skills whi
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Biaroun&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biaroun&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+[![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Biaroun&label=Public%20Repos&query=%24.public_repos&color=0A66C2&style=for-the-badge)](https://github.com/Biaroun?tab=repositories)
 
 <br/>
 
@@ -48,11 +50,15 @@ I'm currently seeking a <b>computer science internship</b> to grow my skills whi
 
 <br/>
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Biaroun&theme=flat&no-frame=true&row=1&column=7" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Biaroun/Biaroun/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Biaroun/Biaroun/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Biaroun/Biaroun/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
